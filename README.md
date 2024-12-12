@@ -2,7 +2,7 @@
 # PendelumMidterm
 
 ## Overview
-PendelumMidterm is an alternative to Pasco Capstone for video analysis. This project provides tools and scripts to analyze video data for double and single pendelums effectively using Python, because
+PendelumMidterm is an alternative to Pasco Capstone for video analysis by Caiman, David and Brandon. This project provides tools and scripts to analyze video data for double and single pendelums effectively using Python, because
 Pasco was being annoying to work with.
 
 ## Features
